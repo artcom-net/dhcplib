@@ -1,0 +1,7 @@
+.idea/
+dhcp/
+tmp/
+venv/
+__pycache__/
+
+*.pyc
